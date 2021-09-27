@@ -46,10 +46,10 @@ My favoite keyword in code would probably have to be the 'new' keyword in C++
 I think the distinction between the stack and heap is very intersting because it gives us a way to classify memory. 
 
 ## Link to **README**
-[Link to README](Github-Page-Project-/README.md)
+[Link to README](README.md)
 
 ## Link to **Resume**
-[Link to resume](Github-Page-Project-/MuhammadAsadImranResume.pdf)
+[Link to resume](MuhammadAsadImranResume.pdf)
 
 ## **sources**
 The images on this page are credited to [Google Images](https://www.google.com/imghp?hl=en)
