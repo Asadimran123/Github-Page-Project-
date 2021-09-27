@@ -1,5 +1,7 @@
 # **Muhammad Asad Imran**
 
+
+
 ## *Intro*
 > "And the dirt that they threw on my name turned to soil and I grew up out it" ~ Drake
  This quote is from one of my favorite artists and I chose to include it because I feel I've always had a chip on my shoulder and I have something to prove. 
@@ -46,10 +48,10 @@ My favoite keyword in code would probably have to be the 'new' keyword in C++
 I think the distinction between the stack and heap is very intersting because it gives us a way to classify memory. 
 
 ## Link to **README**
-[Link to README](README.md)
+[Link to README](/README.md)
 
 ## Link to **Resume**
-[Link to resume](MuhammadAsadImranResume.pdf)
+[Link to resume](/MuhammadAsadImranResume.pdf)
 
 ## **sources**
 The images on this page are credited to [Google Images](https://www.google.com/imghp?hl=en)
