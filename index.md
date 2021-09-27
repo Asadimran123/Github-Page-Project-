@@ -45,7 +45,7 @@ Some of my objectives to complete for my time at UCSD include:
 
 
 ## **Code**
-My favoite keyword in code would probably have to be the 'new' keyword in C++
+My favoite keyword in code would probably have to be the `new` keyword in C++
 I think the distinction between the stack and heap is very intersting because it gives us a way to classify memory. 
 
 ## Link to **README**
