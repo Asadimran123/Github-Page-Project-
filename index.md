@@ -15,11 +15,10 @@
 - playing videogames
 - listening to music
 
-![The greatest of all time](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.muscleandfitness.com%2Fflexonline%2Ftraining%2Farnold-schwarzenegger-training-heavy%2F&psig=AOvVaw3MY8Kk64VBxymwN6TMxArg&ust=1632860800416000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjN9tH-n_MCFQAAAAAdAAAAABAN)
+![The greatest of all time](https://www.muscleandfitness.com/wp-content/uploads/2015/09/arnold-benching.jpg?w=940&h=529&crop=1&quality=86&strip=all)
 
-![The other greatest of all time](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.bostonherald.com%2Fwp-content%2Fuploads%2F2020%2F02%2Fkobe4.jpg&imgrefurl=https%3A%2F%2Fwww.bostonherald.com%2F2020%2F02%2F24%2Fkobe-bryant-immortalized-in-book-the-mamba-mentality%2F&tbnid=3-X_WuEtu497HM&vet=12ahUKEwjFiNzggKDzAhWRtZ4KHW5KA18QMygAegUIARDRAQ..i&docid=dTzbXTLYOTCkiM&w=2100&h=2500&q=kobe%20dunk&ved=2ahUKEwjFiNzggKDzAhWRtZ4KHW5KA18QMygAegUIARDRAQ)
+![The other greatest of all time](https://www.bostonherald.com/wp-content/uploads/2020/02/kobe4.jpg?w=605)
 
-![The other other greatest of all time](https://www.google.com/imgres?imgurl=https%3A%2F%2Fhiphop-n-more.com%2Fwp-content%2Fuploads%2F2021%2F09%2Fdrake-j-cole.jpg&imgrefurl=https%3A%2F%2Fhiphop-n-more.com%2F2021%2F09%2Fdrake-addresses-j-cole-bronze-line-pipe-down-freestyle-at-off-season-tour-kickoff%2F&tbnid=nKNZmsMv3t7ZyM&vet=12ahUKEwjl776GgaDzAhWXrJ4KHfBjBXwQMygAegUIARDcAQ..i&docid=TyUQTAi5SP0eLM&w=1080&h=676&itg=1&q=drake%20j%20cole&ved=2ahUKEwjl776GgaDzAhWXrJ4KHfBjBXwQMygAegUIARDcAQ)
 
 My favorite artists are: 
 1. Drake
