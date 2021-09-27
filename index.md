@@ -4,6 +4,7 @@
 
 ## *Intro*
 > "And the dirt that they threw on my name turned to soil and I grew up out it" ~ Drake
+ 
  This quote is from one of my favorite artists and I chose to include it because I feel I've always had a chip on my shoulder and I have something to prove. 
 
  I was given the name Muhammad by my parents as it is tradition in my culture to name the first born son Muhammad, but I go by my middle name Asad, which translates to lion in Arabic. 
